@@ -1,4 +1,4 @@
-# Smart Digital Clock with ESP32-C3
+# Smart Digital Clock with ESP32-C3 (Final Report)
 
 ## Course: Embedded Systems (Lecturer: Ho Viet Viet)
 
