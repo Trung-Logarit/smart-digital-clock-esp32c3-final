@@ -1,0 +1,5 @@
+dependencies:
+  espressif/esp_insights: "^1.1.0"
+  espressif/esp_diagnostics: "^1.0.0"
+  espressif/esp_rainmaker: ^1.7.9
+  espressif/rmaker_common: "^1.5.0"
